@@ -17,4 +17,5 @@
   --theme-medium:      #115838;  /* text background, search button */
   --theme-light:       #759a78;  /* light menu items */
   --background-color:  #d3e8d5;  /* page background */
+  --theme-text:        var(--theme-medium-dark);  /* legacy's text colour: the item sidebar's headings */
 }
